@@ -1,0 +1,11 @@
+C:\Users\A456U\source\repos\FirstConsoleApp_031\FirstConsoleApp_031\bin\Debug\netcoreapp2.1\FirstConsoleApp_031.deps.json
+C:\Users\A456U\source\repos\FirstConsoleApp_031\FirstConsoleApp_031\bin\Debug\netcoreapp2.1\FirstConsoleApp_031.runtimeconfig.json
+C:\Users\A456U\source\repos\FirstConsoleApp_031\FirstConsoleApp_031\bin\Debug\netcoreapp2.1\FirstConsoleApp_031.runtimeconfig.dev.json
+C:\Users\A456U\source\repos\FirstConsoleApp_031\FirstConsoleApp_031\bin\Debug\netcoreapp2.1\FirstConsoleApp_031.dll
+C:\Users\A456U\source\repos\FirstConsoleApp_031\FirstConsoleApp_031\bin\Debug\netcoreapp2.1\FirstConsoleApp_031.pdb
+C:\Users\A456U\source\repos\FirstConsoleApp_031\FirstConsoleApp_031\obj\Debug\netcoreapp2.1\FirstConsoleApp_031.csprojAssemblyReference.cache
+C:\Users\A456U\source\repos\FirstConsoleApp_031\FirstConsoleApp_031\obj\Debug\netcoreapp2.1\FirstConsoleApp_031.csproj.CoreCompileInputs.cache
+C:\Users\A456U\source\repos\FirstConsoleApp_031\FirstConsoleApp_031\obj\Debug\netcoreapp2.1\FirstConsoleApp_031.AssemblyInfoInputs.cache
+C:\Users\A456U\source\repos\FirstConsoleApp_031\FirstConsoleApp_031\obj\Debug\netcoreapp2.1\FirstConsoleApp_031.AssemblyInfo.cs
+C:\Users\A456U\source\repos\FirstConsoleApp_031\FirstConsoleApp_031\obj\Debug\netcoreapp2.1\FirstConsoleApp_031.dll
+C:\Users\A456U\source\repos\FirstConsoleApp_031\FirstConsoleApp_031\obj\Debug\netcoreapp2.1\FirstConsoleApp_031.pdb
